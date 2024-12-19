@@ -2,17 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinayaanair&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinayaanair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
+### 👨‍💻 About Me:
+- 🌱 Currently exploring **Generative AI** and advanced machine learning techniques.  
+- 👨‍💻 Check out my portfolio for projects: [abhinayanair.vercel.app/portfolio](https://abhinayanair.vercel.app/portfolio)  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhinayanair/) or **abhinaya@gmail.com**.  
+- 📄 Know more about my experience: [My Resume](https://drive.google.com/file/d/1oTm9_e_umKpwWj2iP4v5EMMDTr1_qAgR/view)  
 
-###
-
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinayaanair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 <h3 align="left">Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -32,6 +31,8 @@
 
 <h3 align="left">Tools & Frameworks:</h3>
 <div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask logo" />
