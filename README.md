@@ -5,7 +5,9 @@
 
 
 ### 👨‍💻 About Me:
-- 🌱 Currently exploring **Generative AI** and advanced machine learning techniques.  
+- 🌱 Currently exploring **Generative AI** and advanced machine learning techniques.
+- 🔧 I am proficient in Machine Learning, Deep Learning, NLP, and Computer Vision.
+- 💻 Skilled in full-stack development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js).
 - 👨‍💻 Check out my portfolio for projects: [abhinayanair.vercel.app/portfolio](https://abhinayanair.vercel.app/portfolio)  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhinayanair/) or **abhinayapersonal11@gmail.com**.  
 - 📄 Know more about my experience: [My Resume](https://drive.google.com/file/d/1oTm9_e_umKpwWj2iP4v5EMMDTr1_qAgR/view)  
