@@ -13,7 +13,6 @@
 - 📄 Know more about my experience: [My Resume](https://drive.google.com/file/d/1oTm9_e_umKpwWj2iP4v5EMMDTr1_qAgR/view)  
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinayaanair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 <h3 align="left">Languages:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
@@ -57,6 +56,7 @@
 </div>
 
 ###
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinayaanair&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
