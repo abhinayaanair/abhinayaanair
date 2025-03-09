@@ -10,7 +10,7 @@
 - 💻 Skilled in full-stack development with a focus on the MERN stack (MongoDB, Express.js, React, Node.js).
 - 👨‍💻 Check out my portfolio for projects: [abhinayanair.vercel.app/portfolio](https://abhinayanair.vercel.app/portfolio)  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhinayanair/) or **abhinayapersonal11@gmail.com**.  
-- 📄 Know more about my experience: [My Resume](https://drive.google.com/file/d/1oTm9_e_umKpwWj2iP4v5EMMDTr1_qAgR/view)  
+- 📄 Know more about my experience: [My Resume](https://drive.google.com/file/d/1UZcMY4kL4HdYUxdHX4ZPZQHC9giJG6ra/view?usp=sharing)  
 
 ---
 <h3 align="left">Languages:</h3>
